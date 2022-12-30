@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://wonderful-mud-0ec176c00.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/Jmyf6jTKmJk
+**project demo video link** - https://youtu.be/O3y4vLNg6SA
 
 ## Azure technologies used for Project
 
